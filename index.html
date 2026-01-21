@@ -1,0 +1,248 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sav Codes Daily</title>
+
+  <style>
+    :root {
+      --glass-bg: rgba(255, 255, 255, 0.14);
+      --glass-border: rgba(255, 255, 255, 0.22);
+      --text: rgba(255,255,255,0.92);
+      --muted: rgba(255,255,255,0.70);
+      --shadow: 0 12px 40px rgba(0,0,0,0.18);
+      --radius: 18px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont,
+                   "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: var(--text);
+
+      /* beige–brown ombré */
+      background:
+        radial-gradient(1200px 700px at 20% 10%, rgba(255, 235, 205, 0.55), transparent 60%),
+        radial-gradient(900px 600px at 85% 20%, rgba(222, 184, 135, 0.55), transparent 55%),
+        radial-gradient(900px 700px at 45% 85%, rgba(160, 110, 70, 0.45), transparent 60%),
+        linear-gradient(140deg, #b8895c 0%, #8a5b3a 40%, #5a3a28 100%);
+      background-attachment: fixed;
+    }
+
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 22px 18px 50px;
+    }
+
+    .hero {
+      padding: 18px;
+      border-radius: var(--radius);
+      background: var(--glass-bg);
+      border: 1px solid var(--glass-border);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      box-shadow: var(--shadow);
+      margin-top: 18px;
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      font-size: 28px;
+    }
+
+    .small {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.4;
+    }
+
+    .social {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 12px;
+      margin-top: 14px;
+    }
+
+    .social-card {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      padding: 14px;
+      border-radius: var(--radius);
+      background: var(--glass-bg);
+      border: 1px solid var(--glass-border);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      box-shadow: var(--shadow);
+      text-decoration: none;
+      color: var(--text);
+      transition: transform 140ms ease, border-color 140ms ease;
+    }
+
+    .social-card:hover {
+      transform: translateY(-1px);
+      border-color: rgba(255,255,255,0.32);
+    }
+
+    /* SOCIAL IMAGE ICON */
+    .avatar {
+      width: 36px;
+      height: 36px;
+      border-radius: 12px;
+      object-fit: contain;
+      background: rgba(0,0,0,0.18);
+      padding: 6px;
+      border: 1px solid rgba(255,255,255,0.22);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+      flex-shrink: 0;
+    }
+
+    .social-meta {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .social-title {
+      font-weight: 750;
+    }
+
+    .social-sub {
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .day {
+      margin: 26px 4px 10px;
+      font-size: 18px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 12px;
+    }
+
+    .card {
+      border-radius: var(--radius);
+      padding: 14px;
+      display: flex;
+      gap: 12px;
+      background: var(--glass-bg);
+      border: 1px solid var(--glass-border);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
+      box-shadow: var(--shadow);
+    }
+
+    .thumb {
+      width: 96px;
+      height: 96px;
+      border-radius: 16px;
+      object-fit: cover;
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.14);
+      flex-shrink: 0;
+    }
+
+    .meta { flex: 1; }
+
+    .title {
+      font-weight: 800;
+      margin: 0 0 6px;
+    }
+
+    .price {
+      margin: 0 0 10px;
+    }
+
+    .price s {
+      opacity: 0.65;
+      margin-left: 8px;
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    button, a.btn {
+      border-radius: 999px;
+      padding: 9px 12px;
+      border: 1px solid rgba(255,255,255,0.22);
+      background: rgba(255,255,255,0.10);
+      color: var(--text);
+      text-decoration: none;
+      cursor: pointer;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+    }
+
+    .disclaimer {
+      margin-top: 34px;
+      padding: 14px 16px;
+      border-radius: var(--radius);
+      background: rgba(0,0,0,0.18);
+      border: 1px solid rgba(255,255,255,0.14);
+      color: rgba(255,255,255,0.78);
+      font-size: 12px;
+      line-height: 1.45;
+      box-shadow: var(--shadow);
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <div class="hero">
+      <h1>🔥 Sav Codes Daily</h1>
+      <div class="small">
+        Tap “Copy code” to copy the promo code.<br>
+        Follow for more deals: <strong>@savcodesdaily</strong>
+      </div>
+
+      <div class="social">
+        <!-- TikTok -->
+        <a class="social-card"
+           href="https://www.tiktok.com/@savcodesdaily"
+           target="_blank"
+           rel="noopener noreferrer">
+          <img class="avatar" src="tiktok.png" alt="Sav Codes Daily TikTok">
+          <div class="social-meta">
+            <div class="social-title">TikTok</div>
+            <div class="social-sub">@savcodesdaily</div>
+          </div>
+        </a>
+
+        <!-- Instagram -->
+        <a class="social-card"
+           href="https://www.instagram.com/savcodesdaily/"
+           target="_blank"
+           rel="noopener noreferrer">
+          <img class="avatar" src="instagram.png" alt="Sav Codes Daily Instagram">
+          <div class="social-meta">
+            <div class="social-title">Instagram</div>
+            <div class="social-sub">@savcodesdaily</div>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <!-- DEALS RENDER HERE -->
+    <div id="app"></div>
+
+    <div class="disclaimer">
+      Prices and availability are subject to change.<br>
+      As an Amazon Associate I earn from qualifying purchases.
+    </div>
+
+    <script src="deals.js"></script>
+  </div>
+</body>
+</html>
