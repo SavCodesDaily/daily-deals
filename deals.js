@@ -1,31 +1,40 @@
 // 1) EDIT ONLY THIS LIST DAILY:
 const deals = [
   {
-    date: "2026-01-20",
-    title: "Air Fryer",
-    price: 29,
-    was: 89,
-    code: "DEAL29",
-    link: "https://example.com/airfryer",
-    image: "https://via.placeholder.com/200?text=Air+Fryer"
+    date: "2026-01-21",
+    title: "Ceramie Vases",
+    price: 15,
+    was: 30,
+    code: "BL7OCZ9Z",
+    link: "https://amzn.to/49wUq29",
+    image: "https://m.media-amazon.com/images/I/91kt+YCNbvL._AC_SL1500_.jpg"
   },
   {
-    date: "2026-01-20",
-    title: "Headphones",
-    price: 19,
-    was: 49,
-    code: "SAVE19",
-    link: "https://example.com/headphones",
-    image: "https://via.placeholder.com/200?text=Headphones"
+    date: "2026-01-21",
+    title: "3 Pack Long sleeve shirts",
+    price: 15,
+    was: 40,
+    code: "K5LJGK53",
+    link: "https://amzn.to/4pT40RH",
+    image: "https://m.media-amazon.com/images/I/71f6ldNbL-L._AC_UL1500_.jpg"
   },
   {
-    date: "2026-01-19",
-    title: "Hoodie",
-    price: 22,
-    was: 60,
-    code: "HOOD22",
-    link: "https://example.com/hoodie",
-    image: "https://via.placeholder.com/200?text=Hoodie"
+    date: "2026-01-21",
+    title: "5-in-1 Immersion Blender",
+    price: 23,
+    was: 46,
+    code: "7IW4OZME",
+    link: "https://amzn.to/4r1qctX",
+    image: "https://m.media-amazon.com/images/I/71RYRLNaruL._AC_SL1500_.jpg"
+  },
+  {
+    date: "2026-01-21",
+    title: "Rattan Night Stand",
+    price: 45,
+    was: 130,
+    code: "3GVFRTOK",
+    link: "https://amzn.to/49Lnl1n",
+    image: "https://m.media-amazon.com/images/I/81AGz92+kZL._AC_UF1000,1000_QL80_.jpg"
   }
 ];
 
