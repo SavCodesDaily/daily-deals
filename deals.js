@@ -1,6 +1,42 @@
 // 1) EDIT ONLY THIS LIST DAILY:
 const deals = [
   {
+    date: "2026-01-22",
+    title: "Food Prep Storage Containers",
+    price: 12,
+    was: 24,
+    code: "No Promo Code Needed",
+    link: "https://amzn.to/4sOPcq1",
+    image: "https://m.media-amazon.com/images/I/81xXn1GCD0L._AC_UF1000,1000_QL80_.jpg"
+  }
+  {
+    date: "2026-01-22",
+    title: "Power Inverter",
+    price: 16.50,
+    was: 40,
+    code: "K7B7YJZP",
+    link: "https://amzn.to/4a7dQL7",
+    image: "https://m.media-amazon.com/images/I/71HgDhWt0vL._AC_SL1500_.jpg"
+  }
+  {
+    date: "2026-01-22",
+    title: "Shoe Organizer",
+    price: 22,
+    was: 44,
+    code: "5PFDW9JG",
+    link: "https://amzn.to/4rd9jNg",
+    image: "https://m.media-amazon.com/images/I/71OybEburlL._AC_UF1000,1000_QL80_.jpg"
+  }
+  {
+    date: "2026-01-22",
+    title: "Salt and Pepper Grinder",
+    price: 18,
+    was: 26,
+    code: "T8TNJTZ7",
+    link: "https://amzn.to/4r2R1xP",
+    image: "https://m.media-amazon.com/images/I/714WzQTJXML._AC_UF1000,1000_QL80_.jpg"
+  }
+  {
     date: "2026-01-21",
     title: "Ceramie Vases",
     price: 15,
