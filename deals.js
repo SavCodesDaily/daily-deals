@@ -8,7 +8,7 @@ const deals = [
     code: "No Promo Code Needed",
     link: "https://amzn.to/4sOPcq1",
     image: "https://m.media-amazon.com/images/I/81xXn1GCD0L._AC_UF1000,1000_QL80_.jpg"
-  }
+  },
   {
     date: "2026-01-22",
     title: "Power Inverter",
@@ -17,7 +17,7 @@ const deals = [
     code: "K7B7YJZP",
     link: "https://amzn.to/4a7dQL7",
     image: "https://m.media-amazon.com/images/I/71HgDhWt0vL._AC_SL1500_.jpg"
-  }
+  },
   {
     date: "2026-01-22",
     title: "Shoe Organizer",
@@ -26,7 +26,7 @@ const deals = [
     code: "5PFDW9JG",
     link: "https://amzn.to/4rd9jNg",
     image: "https://m.media-amazon.com/images/I/71OybEburlL._AC_UF1000,1000_QL80_.jpg"
-  }
+  },
   {
     date: "2026-01-22",
     title: "Salt and Pepper Grinder",
@@ -35,7 +35,7 @@ const deals = [
     code: "T8TNJTZ7",
     link: "https://amzn.to/4r2R1xP",
     image: "https://m.media-amazon.com/images/I/714WzQTJXML._AC_UF1000,1000_QL80_.jpg"
-  }
+  },
   {
     date: "2026-01-21",
     title: "Ceramie Vases",
