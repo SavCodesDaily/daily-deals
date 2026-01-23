@@ -1,6 +1,51 @@
 // 1) EDIT ONLY THIS LIST DAILY:
 const deals = [
   {
+    date: "2026-01-23",
+    title: "Adhesive Shower Caddy 5 Pcs",
+    price: 10,
+    was: 30,
+    code: "H5A72SQK",
+    link: "https://amzn.to/3NZVPWv",
+    image: "https://m.media-amazon.com/images/I/81S6FPdEHWL._AC_SL1500_.jpg"
+  },
+  {
+    date: "2026-01-23",
+    title: "Bluetooth Car Adapter",
+    price: 10,
+    was: 23,
+    code: "YY4RUUXX",
+    link: "https://amzn.to/3NHjTNO",
+    image: "https://m.media-amazon.com/images/I/71O9OskkgyL._AC_SL1500_.jpg"
+  },
+  {
+    date: "2026-01-23",
+    title: "Stone Drying Mat",
+    price: 14,
+    was: 40,
+    code: "4K8W326E",
+    link: "https://amzn.to/4jSH9oh",
+    image: "https://m.media-amazon.com/images/I/51lnZuRIBnL._AC_SL1500_.jpg"
+  },
+  {
+    date: "2026-01-23",
+    title: "Lunch Box 16L",
+    price: 14.39,
+    was: 24,
+    code: "3RRA74TA",
+    link: "https://amzn.to/49yKntu",
+    image: "https://m.media-amazon.com/images/I/819O-XFptgL._AC_SL1500_.jpg"
+  },
+  {
+    date: "2026-01-23",
+    title: "Womens Leggings 3-pack ",
+    price: 13,
+    was: 26,
+    code: "ZGIKWIKI",
+    link: "https://amzn.to/4a5J6KB",
+    image: "https://m.media-amazon.com/images/I/61K4IbVYguL._AC_UL1500_.jpg"
+  },
+  {
     date: "2026-01-22",
     title: "Food Prep Storage Containers",
     price: 12,
