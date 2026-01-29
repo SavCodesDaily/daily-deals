@@ -2,19 +2,20 @@
 const deals = [
   {
     date: "2026-01-29",
-    title: "Beanie with Flashlight,
+    title: "Beanie with Flashlight",
     price: 11,
     was: 22,
     code: "GN8CBLM4",
     link: "https://amzn.to/4k8kQLm",
     image: "https://m.media-amazon.com/images/I/61CTE7eT3EL._AC_SL1075_.jpg"
   },
+
    {
     date: "2026-01-29",
-    title: "Handheld Vacuum,
+    title: "Handheld Vacuum",
     price: 20,
     was: 47,
-    code: "M5KUI8MJ,
+    code: "M5KUI8MJ",
     link: "https://amzn.to/4qbqJsC",
     image: "https://m.media-amazon.com/images/I/71vQDJb8erL._AC_SL1500_.jpg"
   },
@@ -23,7 +24,7 @@ const deals = [
     title: "Flower Vase Book",
     price: 6.50,
     was: 13,
-    code: "JR9TSE3W,
+    code: "JR9TSE3W",
     link: "https://amzn.to/3Z800Sz",
     image: "https://m.media-amazon.com/images/I/71XZ5FqtStL._AC_SL1500_.jpg"
   },
