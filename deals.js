@@ -1,6 +1,42 @@
 // 1) EDIT ONLY THIS LIST DAILY:
 const deals = [
   {
+    date: "2026-02-04",
+    title: "Charging Mouse Pad",
+    price: 22,
+    was: 50,
+    code: "NGZ58GTU",
+    link: "https://amzn.to/4axJD8k",
+    image: "https://m.media-amazon.com/images/I/71lUF0xA+OL._AC_UF350,350_QL80_.jpg"
+  },
+  {
+    date: "2026-02-04",
+    title: "Cordless Vacuum",
+    price: 50,
+    was: 90,
+    code: "JGMI8793",
+    link: "https://amzn.to/4tdPQOh",
+    image: "https://m.media-amazon.com/images/I/614TajvsP8L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    date: "2026-02-04",
+    title: "Rain Shower Head",
+    price: 30,
+    was: 70,
+    code: "QKDV2BNK",
+    link: "https://amzn.to/4ruKr3t",
+    image: "https://m.media-amazon.com/images/I/91HIJekqI9L._AC_SL1500_.jpg"
+  },
+  {
+    date: "2026-02-04",
+    title: "Massage Gun",
+    price: 18,
+    was: 40,
+    code: "OQ2N6NS2",
+    link: "https://amzn.to/4c8q5Zk",
+    image: "https://m.media-amazon.com/images/I/61XeBd17zqL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
     date: "2026-01-29",
     title: "Beanie with Flashlight",
     price: 11,
