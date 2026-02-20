@@ -34,7 +34,7 @@ const deals = [
     price: 50,
     was: 100,
     code: "MCNRP2X7",
-    link: "https://amzn.to/3OzvnDt"
+    link: "https://amzn.to/3OzvnDt",
     image: "https://m.media-amazon.com/images/I/A1-37eHbnFL._AC_SL1500_.jpg"
   },
   {
@@ -43,7 +43,7 @@ const deals = [
     price: 15,
     was: 30,
     code: "VT7IIEXP",
-    link: "https://amzn.to/3Os03GT"
+    link: "https://amzn.to/3Os03GT",
     image: "https://m.media-amazon.com/images/I/71BPRGVo4tL._AC_UF350,350_QL80_.jpg"
   },
   {
