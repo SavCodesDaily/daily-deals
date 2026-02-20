@@ -1,6 +1,51 @@
 // 1) EDIT ONLY THIS LIST DAILY:
 const deals = [
   {
+    date: "2026-02-20",
+    title: "LED Floor Lamp",
+    price: 20,
+    was: 40,
+    code: "9U5OESOH",
+    link: "https://amzn.to/3OoGejK"
+    image: "https://m.media-amazon.com/images/I/71oQEsikAhL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    date: "2026-02-20",
+    title: "Heated Blanket",
+    price: 23.74,
+    was: 63,
+    code: "H2IBUXSP",
+    link: "https://amzn.to/3ORQK2W"
+    image: "https://m.media-amazon.com/images/I/810vv2G5nhL._AC_SL1500_.jpg"
+  },
+  {
+    date: "2026-02-20",
+    title: "Wireless Keyboard",
+    price: 16.50,
+    was: 33,
+    code: "BCINLQZY",
+    link: "https://amzn.to/4cpfdXt"
+    image: "https://m.media-amazon.com/images/I/71Bl5itxi3L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    date: "2026-02-20",
+    title: "Farmhouse Coffee Table",
+    price: 50,
+    was: 100,
+    code: "MCNRP2X7",
+    link: "https://amzn.to/3OzvnDt"
+    image: "https://m.media-amazon.com/images/I/A1-37eHbnFL._AC_SL1500_.jpg"
+  },
+  {
+    date: "2026-02-20",
+    title: "Balloon Pump",
+    price: 15,
+    was: 30,
+    code: "VT7IIEXP",
+    link: "https://amzn.to/3Os03GT"
+    image: "https://m.media-amazon.com/images/I/71BPRGVo4tL._AC_UF350,350_QL80_.jpg"
+  },
+  {
     date: "2026-02-04",
     title: "Charging Mouse Pad",
     price: 22,
