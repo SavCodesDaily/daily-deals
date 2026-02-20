@@ -6,7 +6,7 @@ const deals = [
     price: 20,
     was: 40,
     code: "9U5OESOH",
-    link: "https://amzn.to/3OoGejK"
+    link: "https://amzn.to/3OoGejK",
     image: "https://m.media-amazon.com/images/I/71oQEsikAhL._AC_UF894,1000_QL80_.jpg"
   },
   {
@@ -15,7 +15,7 @@ const deals = [
     price: 23.74,
     was: 63,
     code: "H2IBUXSP",
-    link: "https://amzn.to/3ORQK2W"
+    link: "https://amzn.to/3ORQK2W",
     image: "https://m.media-amazon.com/images/I/810vv2G5nhL._AC_SL1500_.jpg"
 
   },
@@ -25,7 +25,7 @@ const deals = [
     price: 16.50,
     was: 33,
     code: "BCINLQZY",
-    link: "https://amzn.to/4cpfdXt"
+    link: "https://amzn.to/4cpfdXt",
     image: "https://m.media-amazon.com/images/I/71Bl5itxi3L._AC_UF894,1000_QL80_.jpg"
   },
   {
