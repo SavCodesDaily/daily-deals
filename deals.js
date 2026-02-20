@@ -17,6 +17,7 @@ const deals = [
     code: "H2IBUXSP",
     link: "https://amzn.to/3ORQK2W"
     image: "https://m.media-amazon.com/images/I/810vv2G5nhL._AC_SL1500_.jpg"
+
   },
   {
     date: "2026-02-20",
